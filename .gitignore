@@ -1,0 +1,7 @@
+# Leonida Platinum — local build outputs and tooling noise.
+# (Kept minimal on purpose: the guide is static files, nothing to build.)
+out/
+node_modules/
+.DS_Store
+*.log
+coverage/
